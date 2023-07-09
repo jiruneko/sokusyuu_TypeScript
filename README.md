@@ -1,1 +1,1 @@
-# sokusyuu_TypeScript
+# fastlearning_TypeScript
