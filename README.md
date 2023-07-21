@@ -1,1 +1,1 @@
-# fastlearning_TypeScript
+# fastlearning_TypeScript("速習TypeScript")
